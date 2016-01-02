@@ -1,0 +1,13 @@
+{
+  "short_name": "Tunes",
+  "name": "Colin's Amazing Remote Audio Device",
+  "icons": [
+    {
+      "src": "/static/icon_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone",
+  "orientation": "portrait"
+}

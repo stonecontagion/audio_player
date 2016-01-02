@@ -1,0 +1,20 @@
+.playing {
+	background-color: #eee;
+}
+
+.nopadding {
+	padding: 0;
+}
+
+.in_front {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+#loading_container {
+	position: absolute; /* or absolute */
+    top: 50%;
+    left: 50%;
+}
